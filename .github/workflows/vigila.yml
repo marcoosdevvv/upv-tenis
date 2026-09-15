@@ -1,0 +1,57 @@
+name: Vigilar plazas UPV
+
+on:
+  schedule:
+    # Cada 5 minutos (mínimo que permite GitHub). Puede retrasarse si hay cola.
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: vigila
+  cancel-in-progress: false
+
+jobs:
+  comprobar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Comprobar plazas
+        env:
+          TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          ACTIVIDADES: "21963:TENIS"
+          ESTADO_FILE: estado_actions.json
+          LOG_FILE: /tmp/vigila.log
+        run: python3 vigila_tenis.py --once
+
+      - name: Guardar estado y latido
+        run: |
+          # El latido evita que GitHub desactive el cron por inactividad (60 días).
+          # Se compara la fecha escrita dentro, no la del fichero: checkout la resetea.
+          python3 - <<'PY'
+          from datetime import datetime, timezone
+          from pathlib import Path
+          p = Path("latido.txt")
+          ahora = datetime.now(timezone.utc)
+          hay_que_escribir = True
+          if p.exists():
+              try:
+                  previo = datetime.strptime(p.read_text().strip()[:16], "%Y-%m-%d %H:%M")
+                  previo = previo.replace(tzinfo=timezone.utc)
+                  hay_que_escribir = (ahora - previo).days >= 10
+              except ValueError:
+                  pass
+          if hay_que_escribir:
+              p.write_text(ahora.strftime("%Y-%m-%d %H:%M UTC") + "\n")
+          PY
+          if [ -n "$(git status --porcelain estado_actions.json latido.txt)" ]; then
+            git config user.name "vigilante"
+            git config user.email "vigilante@users.noreply.github.com"
+            git add estado_actions.json latido.txt
+            git commit -m "estado $(date -u +'%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
