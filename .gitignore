@@ -4,3 +4,4 @@ estado.tmp
 vigila.log
 servicio.log
 servicio.err
+__pycache__/
