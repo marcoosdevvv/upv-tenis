@@ -1,0 +1,396 @@
+{
+ "21963": {
+  "09:00-10:00 TENIS 1|Lunes|1ME2": {
+   "franja": "09:00-10:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "1ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "09:00-10:00 TENIS 1|Martes|14ME1": {
+   "franja": "09:00-10:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "14ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "09:00-10:00 TENIS 1|Miércoles|1ME2": {
+   "franja": "09:00-10:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "1ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "09:00-10:00 TENIS 1|Jueves|14ME1": {
+   "franja": "09:00-10:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "14ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "09:00-11:00 TENIS 1|Viernes|27ME2": {
+   "franja": "09:00-11:00 TENIS 1",
+   "dia": "Viernes",
+   "grupo": "27ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "10:00-11:00 TENIS 1|Lunes|2ME1": {
+   "franja": "10:00-11:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "2ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "10:00-11:00 TENIS 1|Martes|15ME2": {
+   "franja": "10:00-11:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "15ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "10:00-11:00 TENIS 1|Miércoles|2ME1": {
+   "franja": "10:00-11:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "2ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "10:00-11:00 TENIS 1|Jueves|15ME2": {
+   "franja": "10:00-11:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "15ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "11:00-12:00 TENIS 1|Lunes|3ME1": {
+   "franja": "11:00-12:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "3ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "11:00-12:00 TENIS 1|Martes|16INI": {
+   "franja": "11:00-12:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "16INI",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "11:00-12:00 TENIS 1|Miércoles|3ME1": {
+   "franja": "11:00-12:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "3ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "11:00-12:00 TENIS 1|Jueves|16INI": {
+   "franja": "11:00-12:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "16INI",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "11:00-13:00 TENIS 1|Viernes|28INI": {
+   "franja": "11:00-13:00 TENIS 1",
+   "dia": "Viernes",
+   "grupo": "28INI",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "12:00-13:00 TENIS 1|Lunes|4MED2": {
+   "franja": "12:00-13:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "4MED2",
+   "estado": "1 libres",
+   "libres": 1
+  },
+  "12:00-13:00 TENIS 1|Martes|17ME1": {
+   "franja": "12:00-13:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "17ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "12:00-13:00 TENIS 1|Miércoles|4MED2": {
+   "franja": "12:00-13:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "4MED2",
+   "estado": "1 libres",
+   "libres": 1
+  },
+  "12:00-13:00 TENIS 1|Jueves|17ME1": {
+   "franja": "12:00-13:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "17ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "13:00-14:00 TENIS 1|Lunes|5INI": {
+   "franja": "13:00-14:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "5INI",
+   "estado": "2 libres",
+   "libres": 2
+  },
+  "13:00-14:00 TENIS 1|Martes|18ME2": {
+   "franja": "13:00-14:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "18ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "13:00-14:00 TENIS 1|Miércoles|5INI": {
+   "franja": "13:00-14:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "5INI",
+   "estado": "2 libres",
+   "libres": 2
+  },
+  "13:00-14:00 TENIS 1|Jueves|18ME2": {
+   "franja": "13:00-14:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "18ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "13:00-15:00 TENIS 1|Viernes|29ME2": {
+   "franja": "13:00-15:00 TENIS 1",
+   "dia": "Viernes",
+   "grupo": "29ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "14:00-15:00 TENIS 1|Lunes|6PER": {
+   "franja": "14:00-15:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "6PER",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "14:00-15:00 TENIS 1|Martes|19ME1": {
+   "franja": "14:00-15:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "19ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "14:00-15:00 TENIS 1|Miércoles|6PER": {
+   "franja": "14:00-15:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "6PER",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "14:00-15:00 TENIS 1|Jueves|19ME1": {
+   "franja": "14:00-15:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "19ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "15:00-16:00 TENIS 1|Lunes|7ME2": {
+   "franja": "15:00-16:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "7ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "15:00-16:00 TENIS 1|Martes|20PERF": {
+   "franja": "15:00-16:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "20PERF",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "15:00-16:00 TENIS 1|Miércoles|7ME2": {
+   "franja": "15:00-16:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "7ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "15:00-16:00 TENIS 1|Jueves|20PERF": {
+   "franja": "15:00-16:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "20PERF",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "15:00-17:00 TENIS 1|Viernes|30PER": {
+   "franja": "15:00-17:00 TENIS 1",
+   "dia": "Viernes",
+   "grupo": "30PER",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "16:00-17:00 TENIS 1|Lunes|8ME2": {
+   "franja": "16:00-17:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "8ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "16:00-17:00 TENIS 1|Martes|21ME1": {
+   "franja": "16:00-17:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "21ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "16:00-17:00 TENIS 1|Miércoles|8ME2": {
+   "franja": "16:00-17:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "8ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "16:00-17:00 TENIS 1|Jueves|21ME1": {
+   "franja": "16:00-17:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "21ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "17:00-18:00 TENIS 1|Lunes|9ME1": {
+   "franja": "17:00-18:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "9ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "17:00-18:00 TENIS 1|Martes|22ME2": {
+   "franja": "17:00-18:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "22ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "17:00-18:00 TENIS 1|Miércoles|9ME1": {
+   "franja": "17:00-18:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "9ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "17:00-18:00 TENIS 1|Jueves|22ME2": {
+   "franja": "17:00-18:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "22ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "18:00-19:00 TENIS 1|Lunes|10INI": {
+   "franja": "18:00-19:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "10INI",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "18:00-19:00 TENIS 1|Martes|23ME1": {
+   "franja": "18:00-19:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "23ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "18:00-19:00 TENIS 1|Miércoles|10INI": {
+   "franja": "18:00-19:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "10INI",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "18:00-19:00 TENIS 1|Jueves|23ME1": {
+   "franja": "18:00-19:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "23ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "19:00-20:00 TENIS 1|Lunes|11PER": {
+   "franja": "19:00-20:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "11PER",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "19:00-20:00 TENIS 1|Martes|24ME2": {
+   "franja": "19:00-20:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "24ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "19:00-20:00 TENIS 1|Miércoles|11PER": {
+   "franja": "19:00-20:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "11PER",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "19:00-20:00 TENIS 1|Jueves|24ME2": {
+   "franja": "19:00-20:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "24ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "20:00-21:00 TENIS 1|Lunes|12ME2": {
+   "franja": "20:00-21:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "12ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "20:00-21:00 TENIS 1|Martes|25PERF": {
+   "franja": "20:00-21:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "25PERF",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "20:00-21:00 TENIS 1|Miércoles|12ME2": {
+   "franja": "20:00-21:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "12ME2",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "20:00-21:00 TENIS 1|Jueves|25PERF": {
+   "franja": "20:00-21:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "25PERF",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "21:00-22:00 TENIS 1|Lunes|13PER": {
+   "franja": "21:00-22:00 TENIS 1",
+   "dia": "Lunes",
+   "grupo": "13PER",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "21:00-22:00 TENIS 1|Martes|26ME1": {
+   "franja": "21:00-22:00 TENIS 1",
+   "dia": "Martes",
+   "grupo": "26ME1",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "21:00-22:00 TENIS 1|Miércoles|13PER": {
+   "franja": "21:00-22:00 TENIS 1",
+   "dia": "Miércoles",
+   "grupo": "13PER",
+   "estado": "Completo",
+   "libres": 0
+  },
+  "21:00-22:00 TENIS 1|Jueves|26ME1": {
+   "franja": "21:00-22:00 TENIS 1",
+   "dia": "Jueves",
+   "grupo": "26ME1",
+   "estado": "Completo",
+   "libres": 0
+  }
+ }
+}
