@@ -24,6 +24,7 @@ jobs:
           TELEGRAM_TOKEN: ${{ secrets.TELEGRAM_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
           ACTIVIDADES: "21963:TENIS"
+          INTERVALO: "300"
           ESTADO_FILE: estado_actions.json
           LOG_FILE: /tmp/vigila.log
         run: python3 vigila_tenis.py --once
