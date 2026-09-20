@@ -74,8 +74,8 @@
    "franja": "11:00-12:00 TENIS 1",
    "dia": "Martes",
    "grupo": "16INI",
-   "estado": "1 libres",
-   "libres": 1
+   "estado": "Completo",
+   "libres": 0
   },
   "11:00-12:00 TENIS 1|Miércoles|3ME1": {
    "franja": "11:00-12:00 TENIS 1",
@@ -88,8 +88,8 @@
    "franja": "11:00-12:00 TENIS 1",
    "dia": "Jueves",
    "grupo": "16INI",
-   "estado": "1 libres",
-   "libres": 1
+   "estado": "Completo",
+   "libres": 0
   },
   "11:00-13:00 TENIS 1|Viernes|28INI": {
    "franja": "11:00-13:00 TENIS 1",
@@ -130,8 +130,8 @@
    "franja": "13:00-14:00 TENIS 1",
    "dia": "Lunes",
    "grupo": "5INI",
-   "estado": "1 libres",
-   "libres": 1
+   "estado": "2 libres",
+   "libres": 2
   },
   "13:00-14:00 TENIS 1|Martes|18ME2": {
    "franja": "13:00-14:00 TENIS 1",
@@ -144,8 +144,8 @@
    "franja": "13:00-14:00 TENIS 1",
    "dia": "Miércoles",
    "grupo": "5INI",
-   "estado": "1 libres",
-   "libres": 1
+   "estado": "2 libres",
+   "libres": 2
   },
   "13:00-14:00 TENIS 1|Jueves|18ME2": {
    "franja": "13:00-14:00 TENIS 1",
@@ -172,8 +172,8 @@
    "franja": "14:00-15:00 TENIS 1",
    "dia": "Martes",
    "grupo": "19ME1",
-   "estado": "Completo",
-   "libres": 0
+   "estado": "1 libres",
+   "libres": 1
   },
   "14:00-15:00 TENIS 1|Miércoles|6PER": {
    "franja": "14:00-15:00 TENIS 1",
@@ -186,8 +186,8 @@
    "franja": "14:00-15:00 TENIS 1",
    "dia": "Jueves",
    "grupo": "19ME1",
-   "estado": "Completo",
-   "libres": 0
+   "estado": "1 libres",
+   "libres": 1
   },
   "15:00-16:00 TENIS 1|Lunes|7ME2": {
    "franja": "15:00-16:00 TENIS 1",
