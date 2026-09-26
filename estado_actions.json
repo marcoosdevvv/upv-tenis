@@ -130,8 +130,8 @@
    "franja": "13:00-14:00 TENIS 1",
    "dia": "Lunes",
    "grupo": "5INI",
-   "estado": "Completo",
-   "libres": 0
+   "estado": "1 libres",
+   "libres": 1
   },
   "13:00-14:00 TENIS 1|Martes|18ME2": {
    "franja": "13:00-14:00 TENIS 1",
@@ -144,8 +144,8 @@
    "franja": "13:00-14:00 TENIS 1",
    "dia": "Miércoles",
    "grupo": "5INI",
-   "estado": "Completo",
-   "libres": 0
+   "estado": "1 libres",
+   "libres": 1
   },
   "13:00-14:00 TENIS 1|Jueves|18ME2": {
    "franja": "13:00-14:00 TENIS 1",
