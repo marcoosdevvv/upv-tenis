@@ -32,8 +32,8 @@
    "franja": "09:00-11:00 TENIS 1",
    "dia": "Viernes",
    "grupo": "27ME2",
-   "estado": "Completo",
-   "libres": 0
+   "estado": "1 libres",
+   "libres": 1
   },
   "10:00-11:00 TENIS 1|Lunes|2ME1": {
    "franja": "10:00-11:00 TENIS 1",
